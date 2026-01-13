@@ -26,3 +26,4 @@ function add($x,$y){
     return $x+$y;
 }
 echo add(1,2);
+echo "\nGit + PHP learning is going well!\n";
