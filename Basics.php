@@ -20,4 +20,9 @@ echo "Use for loop to print 1 to 10...\n";
 for($i=1;$i<=10;$i++){
     echo $i."\n";
 }
-// from variables till loops
+
+//functions
+function add($x,$y){
+    return $x+$y;
+}
+echo add(1,2);
