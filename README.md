@@ -1,7 +1,7 @@
 # PHP Basics
 
 This repository contains basic PHP programs created for learning and practice purposes.  
-It covers fundamental PHP concepts such as variables, conditional statements, and loops.
+It covers fundamental PHP concepts such as variables, conditional statements, loops, functions, parameters, and arguments.
 
 ## 📂 Files Included
 
