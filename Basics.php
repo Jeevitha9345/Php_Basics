@@ -27,3 +27,16 @@ function add($x,$y){
 }
 echo add(1,2);
 echo "\nGit + PHP learning is going well!\n";
+
+// array function
+$sum = function($a, $b) {
+    return $a + $b;
+};
+
+echo $sum(3, 4);
+
+// return value function
+function multiply($c,$d){
+    return $c*$d;
+}
+echo multiply(1,2);
