@@ -21,6 +21,7 @@ It covers fundamental PHP concepts such as variables, conditional statements, lo
 - functions (with and without return value)
 - array->indexed, associative, multidimensional
 - an example program
+- string concepts
 
 ## ▶️ How to Run the Code
 
