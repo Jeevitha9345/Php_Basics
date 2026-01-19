@@ -40,3 +40,80 @@ function multiply($c,$d){
     return $c*$d;
 }
 echo multiply(1,2);
+
+// array-> to store multiple values in one variable
+$numbers = [10, 20, 30]; //array initialization
+// types->indexed, associative, multidimensional
+// 1. indexed array
+$fruits = ["Apple", "Banana", "Mango"];
+
+echo $fruits[0]; // Apple
+echo $fruits[1]; // Banana
+// index starting from 0
+// traverse 
+foreach ($fruits as $fruit) {
+    echo $fruit . "\n";
+}
+
+// associative array-> Here we use keys instead of index numbers
+$student = [
+    "name" => "Jeevitha",
+    "dept" => "IT",
+    "mark" => 65
+];
+
+echo $student["name"];
+echo $student["dept"];
+
+// traverse
+foreach ($student as $key => $value) {
+    echo $key . " : " . $value . "\n";
+}
+
+// multidimensional array->Array inside another array
+$students = [
+    ["Jeevitha", "IT", 65],
+    ["Anu", "CSE", 80],
+    ["Ravi", "ECE", 45]
+];
+
+echo $students[0][0]; // Jeevitha
+echo $students[1][2]; // 80
+
+// traverse
+foreach ($students as $student) {
+    echo "Name: " . $student[0] . "\n";
+    echo "Dept: " . $student[1] . "\n";
+    echo "Mark: " . $student[2] . "\n";
+    echo "--------\n";
+}
+
+// built-in functions
+// count
+echo count($numbers);
+
+// sum of array elements
+echo array_sum($numbers);
+
+// in_array
+$colors = ["red", "blue", "green"];
+if (in_array("blue", $colors)) {
+    echo "Color found";
+}
+
+// push
+$numbers = [1, 2];
+array_push($numbers, 3, 4);
+
+// small practice program
+$marks = [65, 45, 80, 30];
+function result($mark) {
+    if ($mark >= 50) {
+        return "Pass";
+    } else {
+        return "Fail";
+    }
+}
+foreach ($marks as $m) {
+    echo $m . " - " . result($m) . "\n";
+}
