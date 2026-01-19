@@ -19,6 +19,8 @@ It covers fundamental PHP concepts such as variables, conditional statements, lo
 - Printing output using `echo`
 - New line handling using `\n` (CLI / online compiler)
 - functions (with and without return value)
+- array->indexed, associative, multidimensional
+- an example program
 
 ## ▶️ How to Run the Code
 
