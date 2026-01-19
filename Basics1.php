@@ -35,7 +35,7 @@ echo 'Hello $name';
 // ' ' → variable does NOT work
 
 // In Browser:
-echo "Hello<br>World";
+echo "Hello<br> World";
 
 // In Console:
 echo "\nHello World->\nNew Line Worked!\n";
