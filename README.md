@@ -4,14 +4,12 @@ This repository contains basic PHP programs created for learning and practice pu
 It covers fundamental PHP concepts such as variables, conditional statements, loops, functions, parameters, and arguments.
 
 ## 📂 Files Included
-
 - `Basics.php`
   - PHP variables
   - if–else condition
   - for loop (printing numbers 1 to 10)
 
 ## 🧠 Concepts Covered
-
 - PHP syntax
 - Variables in PHP
 - Conditional statements (if–else)
@@ -24,7 +22,6 @@ It covers fundamental PHP concepts such as variables, conditional statements, lo
 - string concepts
 
 ## ▶️ How to Run the Code
-
 ### Option 1: Online Compiler
 - Copy the code
 - Paste it into any online PHP compiler (GDB Online, OneCompiler, Programiz)
@@ -36,13 +33,11 @@ It covers fundamental PHP concepts such as variables, conditional statements, lo
 - Run using browser or PHP CLI
 
 ## 🎯 Purpose of This Repository
-
 - Learn PHP basics step by step
 - Practice writing clean PHP code
 - Prepare for PHP interviews
 - Maintain learning progress on GitHub
 
 ## 👤 Author
-
 **Jeevitha**  
 IT Student | Beginner PHP Learner
