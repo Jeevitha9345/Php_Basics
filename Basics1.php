@@ -39,3 +39,5 @@ echo "Hello<br> World";
 
 // In Console:
 echo "\nHello World->\nNew Line Worked!\n";
+
+echo "Learning PHP";
