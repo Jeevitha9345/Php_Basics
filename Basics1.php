@@ -1,3 +1,4 @@
+<!-- PHP learning -->
 <!-- String basics -->
 <?php
 //String->sequence of characters
