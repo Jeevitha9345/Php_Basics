@@ -20,22 +20,10 @@ It covers fundamental PHP concepts such as variables, conditional statements, lo
 - an example program
 - string concepts
 
-## ▶️ How to Run the Code
-### Option 1: Online Compiler
-- Copy the code
-- Paste it into any online PHP compiler (GDB Online, OneCompiler, Programiz)
-- Click **Run**
-
-### Option 2: Local System
-- Install XAMPP or any PHP-supported server
-- Place the file inside the `htdocs` folder
-- Run using browser or PHP CLI
-
 ## 🎯 Purpose of This Repository
 - Learn PHP basics step by step
 - Practice writing clean PHP code
 - Prepare for PHP interviews
-- Maintain learning progress on GitHub
 
 ## 👤 Author
 **Jeevitha**  
